@@ -20,13 +20,13 @@ Flask is a micro web framework written in Python. It is classified as a microfra
 
 Flask depends on the Jinja template engine and the Werkzeug WSGI toolkit. The documentation for these libraries can be found at:
 
-* [Jinja] - Jinja is a modern and designer-friendly templating language for Python, modelled after Django’s templates. !
+* [Jinja] - Jinja is a modern and designer-friendly templating language for Python, modelled after Django’s templates.
 * [Werkzeug WSGI] - Werkzeug is a comprehensive WSGI web application library. It began as a simple collection of various utilities for WSGI applications and has become one of the most advanced WSGI utility libraries.
 
 
 And of course Flask itself is open source with a [public repository][Flask] on GitHub.
 
-This readme file is created with the help of dillinger.io
+This readme file is created with the help of [dillinger.io][Dillinger] 
 
 
 ### Todos
@@ -41,4 +41,5 @@ This readme file is created with the help of dillinger.io
    [Jinja]: <https://jinja.palletsprojects.com/en/2.11.x/>
    [Werkzeug WSGI]: <https://werkzeug.palletsprojects.com/en/1.0.x/>
    [wiki]: <https://en.wikipedia.org/wiki/Flask_(web_framework)>
+   [Dillinger]: <https://dillinger.io/>
    
