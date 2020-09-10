@@ -1,6 +1,6 @@
 # Flask Blog
 
-Flask blog  is a Python Flask learning project which follows the tutorial of Corey M Schafer on Youtube.
+Flask blog  is a Python Flask learning project which follows the tutorial of [Corey Schafer][corey] on Youtube.
 
 # Features!
 
@@ -9,11 +9,12 @@ Flask blog  is a Python Flask learning project which follows the tutorial of Cor
   - Unique id for each post and user
   - Users can change their profile picture
   - Filtered pages for each user and their posts
+  - Gmail connection for password reset
 
 ### Flask
 Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.  As it writes on the [Wikipedia][wiki]
 
-> It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. 
+>It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. 
 >However, Flask supports extensions that can add application features as if they were implemented in Flask itself. 
 >Extensions exist for object-relational mappers, form validation, upload handling, various open authentication technologies and several common framework related tools. Extensions are updated far more frequently than the core Flask program.
 
@@ -32,7 +33,7 @@ This readme file is created with the help of [dillinger.io][Dillinger]
 
 ### Todos
 
- - User password reset.
+ - Blueprints.
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
@@ -43,4 +44,5 @@ This readme file is created with the help of [dillinger.io][Dillinger]
    [Werkzeug WSGI]: <https://werkzeug.palletsprojects.com/en/1.0.x/>
    [wiki]: <https://en.wikipedia.org/wiki/Flask_(web_framework)>
    [Dillinger]: <https://dillinger.io/>
+   [corey]: <https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g>
    
