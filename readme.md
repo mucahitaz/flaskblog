@@ -10,6 +10,7 @@ Flask blog  is a Python Flask learning project which follows the tutorial of [Co
   - Users can change their profile picture
   - Filtered pages for each user and their posts
   - Gmail connection for password reset
+  - Structred with flask blueprint
 
 ### Flask
 Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.  As it writes on the [Wikipedia][wiki]
@@ -33,7 +34,7 @@ This readme file is created with the help of [dillinger.io][Dillinger]
 
 ### Todos
 
- - Blueprints.
+ - Custom error messages.
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
